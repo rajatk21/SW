@@ -1,5 +1,4 @@
-import streamlit as st
-from PIL import Image
-import base64
-import streamlit as st
-import base64
+streamlit
+pillow
+pybase64
+pandas
